@@ -1,0 +1,6 @@
+restore-server:
+  server: imap.hostinger.com
+  port: 993
+  ssl: true
+  accounts:
+    email:pass

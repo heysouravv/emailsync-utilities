@@ -1,0 +1,17 @@
+backup-server:
+  server: mail.enticefm.co.uk
+  port: 993
+  ssl: true
+accounts:
+  - email:
+    password: 
+  - email: 
+    password: 
+  - email: 
+    password:
+  - email: 
+    password:
+  - email: 
+    password:
+  - email: 
+    password: 
